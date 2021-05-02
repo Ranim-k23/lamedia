@@ -1,0 +1,41 @@
+#info {border: solid 10px black;
+    margin :50px;
+    padding: 30px;
+    background-color: tomato;}
+#inscript {background-color: yellow;
+padding: 30px;
+border: solid 10px blue;
+}
+#pret {background-color: turquoise;
+margin: 50px;
+border: solid 10px pink;
+}
+section{
+    font-family: Arial;
+    background-color: teal;
+}
+
+#formulaire {
+    position: relative;
+    margin: auto;
+    width: 300px;
+}
+#lbsaisie{
+    display: inline-black;
+    width: 140px;
+    line-height: 30px;
+}
+.bouton{
+    width: 360px;
+}
+.entoureImg{
+    float:right;
+}
+#fondPestin{
+    background-image: url('https://industrywired.com/wp-content/uploads/2020/06/Nanotechnology-1024x576.jpg') ;
+    color: brown;
+    font-size: 22px;
+    font-style: oblique;
+    text-align: left;
+    font-weight: bold;
+}
